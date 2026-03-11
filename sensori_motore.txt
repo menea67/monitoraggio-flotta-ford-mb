@@ -1,0 +1,1 @@
+ID Sensore: 001 Stato: Attivo Temperatura soglia: 90°C
